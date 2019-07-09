@@ -1,0 +1,38 @@
+{
+	"teacher1":
+		{
+			"comment":"teacher1 thinks this hints are...",
+			"rating" : 1
+		},
+// all thing before : is a key, the key in json need to be in ""
+	"teacher2":
+			{
+				"comment":"teacher2 thinks this hints are...",
+				"rating" : 2
+			},
+	"teacher3":
+			{
+				"comment":"teacher3 thinks this hints are...",
+				"rating" : 3
+			},
+	"teacher4":
+	{
+		"comment":"teacher4 thinks this hints are...",
+		"rating" : 4
+	},
+	"teacher5":
+	{
+		"comment":"teacher5 thinks this hints are...",
+		"rating" : 5
+	},
+	"teacher6":
+	{
+		"comment":"teacher6 thinks this hints are...",
+		"rating" : 6
+	},
+	"teacher7":
+	{
+		"comment":"teacher7 thinks this hints are...",
+		"rating" : 7
+	}
+}
