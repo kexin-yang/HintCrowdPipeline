@@ -1,1 +1,1 @@
-{"apple": "{'result':true, 'count':42}"}
+{"apple": "[{'comment':'1 apple', 'rating':42},{'comment':'2 apples', 'rating':42},{'comment':'3 apples', 'rating':42}]"}
